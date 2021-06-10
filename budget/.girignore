@@ -1,6 +1,8 @@
 db*
 api/__pycache__/
 api/migrations/
+api/__pycache__2/
+api/migrations2/
 env*/
 env2*/
 env3*/
