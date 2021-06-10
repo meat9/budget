@@ -5,7 +5,7 @@ api/__pycache__2/
 api/migrations2/
 api/__pycache__3/
 api/migrations3/
-env*/
-env2*/
-env3*/
-env4*/
+env/
+env2/
+env3/
+env4/
