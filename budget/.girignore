@@ -1,4 +1,4 @@
 db*
 api/__pycache__
 api/migrations
-env
+env*
